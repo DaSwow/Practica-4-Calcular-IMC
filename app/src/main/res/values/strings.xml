@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Asignacion4_calculadora_IMC</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="calcular">Calcular IMC</string>
+    <string name="resultado">Resultado</string>
+    <string name="estado">Estado</string>
+
+</resources>
